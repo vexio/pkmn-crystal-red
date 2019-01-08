@@ -1,5 +1,5 @@
 # Pokemon Crystal Red
-Pokemon Crystal Red, a ROM Hack of Pokemon Fire Red aimed to re-create Johto and Kanto along with other post-game sidequests
+Pokemon Crystal Red, a ROM Hack of Pokemon Fire Red, is aimed to re-create Johto and Kanto along with other post-game sidequests
 
 ## About
 Pokemon Crystal Red is a recreation of the two neighboring regions, Kanto and Johto, with Fire Red based graphics. Along that, many of the routes are remastered and repopulated with different Pokemon. Postgame content (Such as Kanto and the Sevii Islands) will be revised as well.
