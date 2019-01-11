@@ -7,7 +7,7 @@ Pokemon Crystal Red is a recreation of the two neighboring regions, Kanto and Jo
 ## Roadmap
 Currently, I will only be focusing on Johto, then move my attention to other Postgame content.
 ### Towns
-+ New Bark Town
++ [New Bark Town](https://github.com/vexio/pkmn-crystal-red/blob/master/maps/New%20Bark%20Town.png?raw=true)
 + Cherrygrove City
 + Violet City
 + Azalea Town
