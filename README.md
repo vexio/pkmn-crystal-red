@@ -21,7 +21,7 @@ Currently, I will only be focusing on Johto, then move my attention to other Pos
 ### Routes
 #### Johto
 + Route 28 _(Mt. Silver Enterance)_
-+ Route 29
++ [Route 29](https://github.com/vexio/pkmn-crystal-red/blob/master/maps/Route%2029.png?raw=true)
 + Route 30
 + Route 31
 + Route 32
